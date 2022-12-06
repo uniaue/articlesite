@@ -33,7 +33,7 @@ const displayNews = (data) =>{
 
 article_image.onerror = () => {
     article_image.onerror = null;
-article_image.src = "./assets/img.jpg";
+article_image.src = "/assets/pexels.jpg";
 };
 
 

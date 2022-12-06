@@ -16,7 +16,7 @@ const getSingleNews = async (id) =>{
     }
 };
 const displayNewsDetails = (data) => {
-    var image = document.getElementById("img");
+    var image = document.getElementById("image");
     var title = document.getElementById("title");
     var url = document.getElementById("url");
     var author = document.getElementById("author");
